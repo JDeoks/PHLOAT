@@ -1,8 +1,6 @@
 <!-- Created by JDeoks on 9/27/26. -->
 
-<p align="center">
-  <img src="assets/app-icon.png" alt="플로트 앱 아이콘" width="96" height="96">
-</p>
+<img src="assets/app-icon.png" alt="플로트 앱 아이콘" width="96" height="96">
 
 # 플로트
 
@@ -14,6 +12,8 @@ Finder에서 Markdown과 코드를 읽기 좋게 보여줘요.
 README의 표와 다이어그램을 읽고, 소스 코드를 확인하고, 필요한 내용을 선택해 복사하세요.
 
 <img src="assets/demo.gif" alt="플로트 사용 데모" width="600">
+
+**[macOS용 다운로드](https://github.com/JDeoks/PHLOAT/releases/download/v0.1.0/PHLOAT-0.1.0.dmg)**
 
 ## 설치
 

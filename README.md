@@ -1,8 +1,6 @@
 <!-- Created by JDeoks on 9/27/26. -->
 
-<p align="center">
-  <img src="assets/app-icon.png" alt="PHLOAT app icon" width="96" height="96">
-</p>
+<img src="assets/app-icon.png" alt="PHLOAT app icon" width="96" height="96">
 
 # PHLOAT
 
@@ -14,6 +12,8 @@ Preview Markdown and code in a clear, readable format right in Finder.
 Read tables and diagrams in your README, browse source code, and select and copy what you need.
 
 <img src="assets/demo.gif" alt="PHLOAT demo" width="600">
+
+**[Download for macOS](https://github.com/JDeoks/PHLOAT/releases/download/v0.1.0/PHLOAT-0.1.0.dmg)**
 
 ## Installation
 
